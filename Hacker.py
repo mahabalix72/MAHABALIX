@@ -71,9 +71,9 @@ START_TEXT = """
 𝘽𝙤𝙩 𝙁𝙤𝙧 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙂𝙧𝙤𝙪𝙥𝙨 𝘼𝙡𝙡𝙤𝙬𝙨 𝙔𝙤𝙪 𝙏𝙤 𝙋𝙡𝙖𝙮 𝙈𝙪𝙨𝙞𝙘 𝘼𝙣𝙙 𝙑𝙞𝙙𝙚𝙤𝙨 𝙊𝙣 𝙂𝙧𝙤𝙪𝙥𝙨 𝙏𝙝𝙧𝙤𝙪𝙜𝙝 𝙏𝙝𝙚 𝙉𝙚𝙬 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙑𝙞𝙙𝙚𝙤 𝘾𝙝𝙖𝙩𝙨...
 ┏━━━━━━━━━━━━━━━━━┓
 ┣★
-┣★ 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 : [💔𝐁𝐑𝐎𝐊𝐄𝐍💔](https://t.me/BROKENLONDAZ)
+┣★ 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 : [💔𝗡𝗔𝗡𝗗𝗔𝗡](https://t.me/NANDAN_SINGH_BHUMIHAR)
 ┣★
-┣★ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 : [𝙃𝙀𝙍𝙀](https://t.me/Flarting_chatting)
+┣★ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 : [𝙃𝙀𝙍𝙀](https://t.me/TEAM_VAMPIRES)
 ┣★
 ┗━━━━━━━━━━━━━━━━━┛
 ━━━━━━━━━━━━━━━━━━━━━━━━
@@ -86,14 +86,14 @@ START_BUTTONS = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton("📝 𝘊𝘖𝘔𝘔𝘈𝘕𝘋𝘚", callback_data="cbcmds"),
-            InlineKeyboardButton("💔 OWNER", url="https://t.me/BROKENLONDAZ")
+            InlineKeyboardButton("💔 OWNER", url="https://t.me/NANDAN_SINGH_BHUMIHAR")
         ],
         [
-            InlineKeyboardButton("🧞‍♂ 𝘚𝘜𝘗𝘗𝘖𝘙𝘛", url="https://t.me/Flarting_chatting"),
-            InlineKeyboardButton("🔔 CHATTING", url="https://t.me/Flarting_chatting")
+            InlineKeyboardButton("🧞‍♂ 𝘚𝘜𝘗𝘗𝘖𝘙𝘛", url="https://t.me/TEAM_VAMPIRES"),
+            InlineKeyboardButton("🔔 CHATTING", url="https://t.me/TEAM_VAMPIRES")
         ],
         [
-            InlineKeyboardButton("💔 OWNER", url="https://t.me/BROKENLONDAZ")
+            InlineKeyboardButton("💔 OWNER", url="https://t.me/NANDAN_SINGH_BHUMIHAR")
         ]
     ]
 )
@@ -101,8 +101,8 @@ START_BUTTONS = InlineKeyboardMarkup(
 BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="• 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 •", url="https://t.me/Flarting_chatting"),
-            InlineKeyboardButton(text="• 𝐂𝐇𝐀𝐓𝐓𝐈𝐍𝐆 •", url="https://t.me/Flarting_chatting")
+            InlineKeyboardButton(text="• 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 •", url="https://t.me/TEAM_VAMPIRES"),
+            InlineKeyboardButton(text="• 𝐂𝐇𝐀𝐓𝐓𝐈𝐍𝐆 •", url="https://t.me/TEAM_VAMPIRES")
         ]
     ]
 )
